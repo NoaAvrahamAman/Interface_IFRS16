@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DocumentFlows creationDate="2026-03-24T07:29:16Z" version="2026.03.8.1c690b0">
+   <FileFormatTemplates>
+      <FileFormatTemplate>
+         <Name>IFRS16_File</Name>
+         <Description/>
+         <FileEncoding>UTF-8</FileEncoding>
+         <FormatType>RawData</FormatType>
+         <FileType>Binary</FileType>
+         <FileName>FileName</FileName>
+         <FileExtension>FileExtension</FileExtension>
+         <FilePath>FilePath</FilePath>
+         <LastUpdatedBy>Admin Admin</LastUpdatedBy>
+         <LastUpdatedOn>2025-09-25 19:34:28.68</LastUpdatedOn>
+         <UseFileAttributes>true</UseFileAttributes>
+         <IncludeXMLHeader>false</IncludeXMLHeader>
+         <FormatTypeSettings>
+            <FormatTypeSetting>
+               <FillCharacter/>
+               <BODNoun>IFRS16_File</BODNoun>
+               <FieldSeparator>;</FieldSeparator>
+               <LineSeparator>\r\n</LineSeparator>
+               <FieldStart/>
+               <FieldEnd/>
+               <MultiplicityGeneratedBOD>Single</MultiplicityGeneratedBOD>
+               <FormatType>RawData</FormatType>
+               <DataFieldSettings>
+                  <DataFieldSetting>
+                     <SequenceNumber>2</SequenceNumber>
+                     <FieldName>RawData</FieldName>
+                     <Length>1</Length>
+                     <OptionalField>False</OptionalField>
+                  </DataFieldSetting>
+                  <DataFieldSetting>
+                     <SequenceNumber>1</SequenceNumber>
+                     <FieldName>DocumentID</FieldName>
+                     <Length>1</Length>
+                     <OptionalField>False</OptionalField>
+                  </DataFieldSetting>
+               </DataFieldSettings>
+            </FormatTypeSetting>
+         </FormatTypeSettings>
+      </FileFormatTemplate>
+   </FileFormatTemplates>
+</DocumentFlows>
